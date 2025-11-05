@@ -1,0 +1,9 @@
+[
+  { "id": 1, "name": "Carlos Alvarez", "email": "c.alvarez@example.com", "grade": "A", "imageKey": "referee1.jpg" },
+  { "id": 2, "name": "Mariana Soto", "email": "m.soto@example.com", "grade": "B", "imageKey": "referee2.jpg" },
+  { "id": 3, "name": "Luis Martínez", "email": "l.martinez@example.com", "grade": "A", "imageKey": "referee3.jpg" },
+  { "id": 4, "name": "Ana Gómez", "email": "a.gomez@example.com", "grade": "C", "imageKey": "referee4.jpg" },
+  { "id": 5, "name": "Juan Pérez", "email": "j.perez@example.com", "grade": "B", "imageKey": "referee5.jpg" },
+  { "id": 6, "name": "Sofia Rojas", "email": "s.rojas@example.com", "grade": "A", "imageKey": "referee6.jpg" },
+  { "id": 7, "name": "Andrés Torres", "email": "a.torres@example.com", "grade": "B", "imageKey": "referee7.jpg" }
+]
