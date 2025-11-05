@@ -22,4 +22,4 @@ jobs:
       run: docker build -t ${{ secrets.DOCKERHUB_USERNAME }}/arbitros-api:latest .
 
     - name: Push image
-      run: docker push ${{ secrets.DOCKERHUB_USERNAME }}/arbitros-api:latest }
+      run: docker push ${{ secrets.DOCKERHUB_USERNAME }}/arbitros-api:latest
